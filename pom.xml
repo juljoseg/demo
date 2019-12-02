@@ -37,6 +37,10 @@
 		</dependency>
 	</dependencies>
 
+	<scm>
+    	<developerConnection>scm:git:https://github.com/juljoseg/demo.git</developerConnection>
+  	</scm>
+
 	<build>
 		<plugins>
 			<plugin>
